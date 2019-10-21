@@ -1,5 +1,7 @@
 # Sigmoid_app
-Prototype for an interactive colormap web app.
+Initial prototype for an interactive app to make sigmoid grayscale colormaps.
+
+It goes together with [this chapter](https://github.com/softwareunderground/52things/blob/master/chapters/Niccoli_1.md) in the book (in progress) [52 Things You Should Know About Geocomputing](https://github.com/softwareunderground/52things).
 
 __NB: it is currently optimized to work in Jupyter Notebook, it will not work with JupyterLab__
 
