@@ -1,0 +1,10 @@
+name: sigm2020
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - colorsys
+  - Ipython
+  -ipywidgets
