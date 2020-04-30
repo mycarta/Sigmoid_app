@@ -12,3 +12,4 @@ __NB: it is currently optimized to work in Jupyter Notebook, it will not work wi
 
 #### Interactive notebooks:
 * click on the `Binder button` below, browse to the `/Python/notebooks` directory, and open one of the notebooks
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mycarta/Sigmoid_app/master)

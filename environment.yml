@@ -7,4 +7,4 @@ dependencies:
   - numpy
   - Ipython
   - ipywidgets
-  - colour-science
+  - colour
