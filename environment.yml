@@ -5,6 +5,6 @@ channels:
 dependencies:
   - matplotlib
   - numpy
-  - colorsys
   - Ipython
   - ipywidgets
+  - colour
