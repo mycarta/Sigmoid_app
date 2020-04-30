@@ -7,4 +7,4 @@ dependencies:
   - numpy
   - colorsys
   - Ipython
-  -ipywidgets
+  - ipywidgets
