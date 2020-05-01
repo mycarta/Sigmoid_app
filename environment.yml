@@ -8,4 +8,3 @@ dependencies:
   - Ipython
   - ipywidgets
   - colour-science
-  - os
